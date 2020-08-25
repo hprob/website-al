@@ -1,0 +1,23 @@
+---
+layout: default
+title: Articles | Al-Nie
+extra_style: "<link rel=\"stylesheet\" href=\"/assets/style/article.css\"/>"
+---
+<h1 class="center-text">Articles</h1>
+<h2 class="center-text subtitle">Part 3 is in progress</h2>
+
+<ul class="posts">
+    {% for post in site.posts %}
+        <li>
+            <a href="{{ post.url }}" class="post-card">
+                <div class="post-image" style="background-image: url('/assets/img/{{ post.image }}')"></div>
+                <div class="content">
+                    <p>{{ post.date | date_to_long_string: "ordinal", "US" }}</p>
+                    <h2>{{ post.title }}</h2>
+                    <p class="excerpt">{{ post.content | markdownify | strip_html | truncate: 250 }}</p>
+                    <p>Continue Reading</p>
+                </div>
+            </a>
+        </li>
+    {% endfor %}
+</ul>

@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8"/>
+
+        <link rel="stylesheet" href="/assets/style/main.css"/>
+        {{ page.extra_style }}
+        <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cabin:wght@700&family=Source+Sans+Pro&display=swap"/>
+
+        <meta name="viewport" content="width=device-width, initial-scale=1"/>
+        <meta name="author" content="Al-Nie"/>
+
+        <meta name="title" content="Al-Nie"/>
+        <meta name="description" content="Currently, the sole purpose of this website is to house the articles on pain science that I have written."/>
+
+        <meta property="og:type" content="website"/>
+        <meta property="og:url" content="https://al-nie.com/"/>
+        <meta property="og:title" content="Al-Nie"/>
+        <meta property="og:description" content="Currently, the sole purpose of this website is to house the articles on pain science that I have written."/>
+        <meta property="og:image" content="/assets/img/cranium.png"/>
+
+        <meta property="twitter:card" content="summary_large_image">
+        <meta property="twitter:url" content="https://al-nie.com/">
+        <meta property="twitter:title" content="Al-Nie"/>
+        <meta property="twitter:description" content="Currently, the sole purpose of this website is to house the articles on pain science that I have written."/>
+        <meta property="twitter:image" content="/assets/img/cranium.png"/>
+
+        <title>{{ page.title }}</title>
+    </head>
+    <body>
+        {% include nav.html %}
+        <main>
+            {{ content }}
+        </main>
+        <footer>
+            <p>Copyright &copy; Al-Nie All Rights Reserved</p>
+        </footer>
+    </body>
+</html>
