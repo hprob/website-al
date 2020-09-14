@@ -3,6 +3,8 @@ layout: post
 title: "Intro to Pain Science Part 1: Fundamental Concepts"
 image: figure.jpg
 ---
+
+Al Nie
 **Introduction**
 
 My goal with this series of articles is to provide a detailed and accessible introduction to pain science. In addition to being fascinating, learning about pain is vitally important, due to the huge worldwide problem of chronic pain.
@@ -173,6 +175,7 @@ Nice site to explore: [https://www.painscience.com](https://www.painscience.com/
 
 Intro Neuroscience Textbook: [Neuroscience: Exploring the Brain by Mark F. Bear](https://www.goodreads.com/book/show/170011.Neuroscience)
 
+Al Nie
   
 
 **Tangents**
@@ -213,5 +216,7 @@ Modulation mechanisms, both those that are dependent on psychology/context and t
 **Tangent 4: Decussation of Pain/Thermal vs Touch/Proprioception Ascending Pathways**
 
 There are two distinct main ascending pathways for these submodalities of somatosensation. Both pathways decussate (cross over to the other side) in the spinal cord, but the spinothalamic tract decussates at a lower point. Thus, in some spinal cord injuries that injure only one side of the spinal cord, it is possible to lose most if not all of the sense of touch and proprioception in one side of the body below the injury site, yet still feel pain and temperature there, and vice versa. Pretty cool.
+
+Al Nie
 
   

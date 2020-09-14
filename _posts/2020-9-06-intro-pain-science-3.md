@@ -1,7 +1,11 @@
 
 
-
-  
+---
+layout: post
+title: "Intro to Pain Science Part 3: More Detailed Neurobiology"
+image: figure.jpg
+---
+Al Nie
 **Introduction**
 
 In this final article, I aim to show a more detailed look at the neuroanatomy and neurobiology underlying pain. I first outline the ascending pathway again. Throughout, there are some brief explanations of the events that allow neurons to fire action potentials. Next, I explain a couple of particularly interesting modulatory mechanisms.
@@ -187,7 +191,7 @@ Here are some good places to visit if you’re interested in learning more about
 
 [http://thebrain.mcgill.ca](http://thebrain.mcgill.ca/)
 
-  
+Al Nie
 
 **Tangents**
   
@@ -236,3 +240,5 @@ The third technique, the lesion-deficit approach, is by far the oldest. It can b
 The fourth and final main method is direct stimulation of neurons in brain regions of interest. Neurosurgeon William Penfield first did this in the 1940s while performing open brain surgeries on awake subjects. When he stimulated certain parts of the somatosensory cortex, subjects reported feeling sensations at specific body regions. In different subjects, the same certain subsections of the somatosensory cortex corresponded to the same body regions. This is how the somatosensory homunculus was discovered. This approach is quite powerful, and establishes a strong causal link between region and function. However, it too has its shortcomings. First, regions don’t work in isolation in the real world, and direct stimulation of an area is an extremely artificial scenario. Under normal conditions with more natural activation patterns across the brain, the stimulated region may work differently (see [Some limits on interpreting causality in neuroscience experiments](https://medium.com/the-spike/some-limits-on-interpreting-causality-in-neuroscience-experiments-f777a63650c7)). Also, when you stimulate neurons, their postsynaptic neurons will also likely fire. The result of the stimulation may be due to the activity of the postsynaptic neurons, rather than the ones directly stimulated.
 
 See [How to Characterize the Function of a Brain Region](https://www.sciencedirect.com/science/article/pii/S1364661318300238) if you want to learn more about this.
+
+Al Nie

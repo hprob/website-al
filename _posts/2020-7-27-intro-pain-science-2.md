@@ -4,6 +4,7 @@ title: "Intro to Pain Science Part 2: Chronic Pain"
 Image: figure.jpg
 ---
 
+Al Nie
 
 **Introduction: The 3 Groups of Factors have different weights in different types of pain**
 
@@ -188,7 +189,7 @@ Paper Discussing the Development of Chronic Pain: [The Transition of Acute Posto
 
 Nice overview of pain: [(PDF) Reconceptualising pain according to modern pain science](https://www.researchgate.net/publication/233581683_Reconceptualising_pain_according_to_modern_pain_science)
 
-  
+Al Nie
 
 **Tangents (Optional to Read)**
 
@@ -242,3 +243,5 @@ To truly find the effect of the placebo treatment itself, you have to compare th
 While the placebo effect is often overhyped, there are certain instances in which placebo effects can be quite amazing, including pain. ([A Comparison of Placebo Effects in Clinical Analgesic Trials Versus Studies of Placebo Analgesia](https://pubmed.ncbi.nlm.nih.gov/12406519/)). The fact that the placebo effect works quite well in pain further supports the idea that treating psychological factors will be efficacious; the placebo treatment can essentially be seen as a type of dishonest psychological treatment. The main factors contributing to the actual effect due to the placebo treatment with respect to pain are conditioning/learning (see subtangent) and expectation of relief (or in nocebo, expectation of sensitization/worsening.) Some general biological mechanisms are known. The endogenous opioid system is clearly involved. This pioneering study ([The mechanism of placebo analgesia](https://pubmed.ncbi.nlm.nih.gov/80579/)) found that following getting their molars removed, some of the patients given saline (placebo) reported the same amount of pain as patients given morphine. But when given naloxone, an antagonist of opioids which blocks their actions by occupying their receptors, these patients reported more pain. Patients who were not responsive to the saline reported no difference due to naloxone administration. This is strong evidence that the expectations of relief from patients actually recruited the endogenous opioid system to reduce pain. Recall from article 1 that the descending pathway to the spinal cord is involved. Opioids may work through this route. However, there is more to the story than just endogenous opioids. This study ([Placebo and naloxone can alter post-surgical pain by separate mechanisms](https://www.nature.com/articles/306264a0)) found “that placebo analgesia can occur after blockade of opioid mechanisms by naloxone.” Other systems involving dopamine and serotonin are also thought to be involved. ([THE BRAIN FROM TOP TO BOTTOM](http://thebrain.mcgill.ca/flash/a/a_03/a_03_p/a_03_p_dou/a_03_p_dou.html)). It is likely that transient changes in the way that the nervous system processes noxious stimuli and nociception also occur to cause placebo and nocebo effects.
 
 Some other systems, including, the immune, and endocrine systems, seem very influenced by psychology and the placebo/nocebo effect. For example, this recent study [Learning one’s genetic risk changes physiology independent of actual genetic risk](https://www.nature.com/articles/s41562-018-0483-4) showed that when people were told that they had high-risk genetic profiles for satiety or exercise capacity both perceived poorer outcomes (ie more hunger, more exhaustion) and exhibited objectively measurable changes in relevant physiological measures such as hormone levels associated with satiety and lower max CO2:O2 exchange rate. This is the article from which I discovered this study. [Genetics-Based Expectations Affect Your Physiology • Stronger by Science](https://www.strongerbyscience.com/genetics-expectations/). This is just one example of many; it is well established that thoughts can have objective influences on physiology.
+
+Al Nie
