@@ -1,5 +1,3 @@
-
-
 ---
 layout: post
 title: "Intro to Pain Science Part 3: More Detailed Neurobiology"
